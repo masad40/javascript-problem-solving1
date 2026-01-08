@@ -42,3 +42,18 @@ The main goal of this task is to demonstrate **logical thinking**, **basic JavaS
 
 ```bash
 node filename.js
+Example:
+
+node problem7.js
+
+🎥 Video Explanation
+
+A short video explanation (maximum 5 minutes) has been recorded explaining the logic behind 5 selected problems, including screen recording and voice-over.
+
+📎 Video Link:
+https://drive.google.com/file/d/1vpEJeY4SaPwN6iVDpnsI17xZZkqrrJio/view?usp=sharing
+
+✍️ Author
+
+Asaduzzaman Masad
+Beginner JavaScript Learner
