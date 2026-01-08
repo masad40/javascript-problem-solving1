@@ -40,7 +40,7 @@ The main goal of this task is to demonstrate **logical thinking**, **basic JavaS
 2. Open any `.js` file
 3. Run the file using Node.js:
 
-```bash
+``bash
 node filename.js
 Example:
 
