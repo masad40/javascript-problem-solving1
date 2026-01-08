@@ -1,4 +1,4 @@
-# JavaScript Problem Solving Task
+# JavaScript Problem Solving 
 
 This repository contains solutions to 10 basic JavaScript problem-solving questions.  
 All solutions are written using **plain JavaScript** without any frameworks or external libraries.
