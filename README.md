@@ -7,15 +7,6 @@ The main goal of this task is to demonstrate **logical thinking**, **basic JavaS
 
 ---
 
-## 📌 Rules Followed
-
-- Solved all 10 problems
-- Used only plain JavaScript
-- Applied own logic to solve each problem
-- No frameworks or advanced libraries used
-- Focused on clarity and beginner-friendly solutions
-
----
 
 ## 🧠 Problem List
 
